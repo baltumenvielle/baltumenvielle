@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Baltazar Menvielle
-### Licenciatura en Sistemas - UNLP | Apasionado por la IA 🤖
+### Analista Programador Universitario - Estudiante de Licenciatura en Sistemas - UNLP | Apasionado por la IA 🤖
 
-💡 Me interesa el desarrollo de modelos de Machine Learning y Deep Learning.  
+💡 Me interesa el desarrollo de modelos de Machine Learning y Deep Learning, así como innovar en la aplicación de sistemas inteligentes en el mundo real.  
 📂 Acá subo repositorios de prácticas de la facultad y proyectos en IA.
 📫 Contacto: [E-mail](baltazarmenvielle@gmail.com) | [LinkedIn](https://www.linkedin.com/in/baltazar-menvielle)  
-🚀 Buscando oportunidades para aplicar IA en proyectos reales.  
+🚀 Estoy buscando oportunidades para aplicar mis conocimientos y construir soluciones orientadas en IA.
