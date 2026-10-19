@@ -1,7 +1,7 @@
-# ¡Hola! 👋 Soy Baltazar Menvielle
-### Analista Programador Universitario - Estudiante de Licenciatura en Sistemas - UNLP
+# Hey! 👋 I'm Baltazar
+### I'm a BSc in Comp. Sci Student at UNLP, graduating in 2027.
 
-💡 Estoy interesado en el desarrollo e innovación en la implementación de sistemas inteligentes basados en el Deep Learning para el mundo real.
-📂 En esta plataforma subo repositorios de prácticas de la facultad y algunas implementaciones de papers o proyectos relacionados con la IA.
-🚀 Hoy en día me encuentro desarrollando mi tesina de licenciatura basada en mis áreas de interés.
-📫 Me podés contactar en: [E-mail](baltazar.menvielle233597@alumnos.info.unlp.edu.ar) | [LinkedIn](https://www.linkedin.com/in/baltazar-menvielle)  
+💡 I'm interested in almost anything that relates to computers: from backend development, through software engineering, artificial intelligence, to even networks and pentesting!
+📂 You can find some repos with little projects, paper implementations, as well as coursework here!
+🚀 As of today, I'm working on my dissertation paper for finishing my Bachelor's Degree, particularly in terms of executing agentic pipelines on resource-constrained hardware.
+📫 Contact me on: [E-mail](baltazar.menvielle233597@alumnos.info.unlp.edu.ar) | [LinkedIn](https://www.linkedin.com/in/baltazar-menvielle)  
